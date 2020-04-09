@@ -1,0 +1,22 @@
+{
+  "name": "emptiness",
+  "version": "1.0.0",
+  "description": "This is the emptiness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/su3158/Emptiness.git"
+  },
+  "keywords": [
+    "emptiness"
+  ],
+  "author": "su3158",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/su3158/Emptiness/issues"
+  },
+  "homepage": "https://github.com/su3158/Emptiness#readme"
+}
